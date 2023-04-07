@@ -774,6 +774,8 @@ select {
   padding: 12px 0;
 }
 
+
+
 /* SMALL PHONES, TABLETS, LARGE SMARTPHONES */
 @media (max-width: 768px) {
   .header__description {
